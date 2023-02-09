@@ -1,0 +1,8 @@
+.idea
+.idea_modules
+.gradle
+gradle-wrapper.properties
+gradle-wrapper.jar
+out
+build
+*.iws
